@@ -20,7 +20,6 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React)
 ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-orange)
 
