@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://pin.it/19yhbsOo9" alt="Banner" width="1000">
-</p>
-
 
 
 
@@ -29,10 +25,6 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 ![Ghidra](https://img.shields.io/badge/-Ghidra-orange)
 
 ---
-
-<p align="left">
-  <img src="gojo.JPG" alt="Gojo Image" width="500">
-</p>
 
 ---
 
