@@ -26,7 +26,6 @@ I am a **Front/Back-End Developer** and **Reverse Engineer**
 
 ---
 
----
 
 ### 💬 Connect with Me:
 [![Discord](https://img.shields.io/badge/Celestia-lightgrey?logo=discord)](https://discord.gg/Q9K5bFS8)  
