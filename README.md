@@ -1,5 +1,5 @@
 [![MasterHead](https://www.behance.net/gallery/174107989/headers-/modules/1139504879)]()
-<h1 align="center">Hello :D! im Ryuzeen</h1>
+<h1 align="center">Hello :D! im CyRUS</h1>
 <h3 align="center">I am a Front / Back end developer / Reverse engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuzeen&label=Profile%20views&color=0e75b6&style=flat" alt="ryuzeen" /> </p>
@@ -7,24 +7,18 @@
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryuzeen" alt="ryuzeen" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
 
-- 👨💻 I’m currently working on [Korepi](https://github.com/ryuzeen/korepi-docs)
+- 👨💻 I’m currently working on my life.
 
-- 📓 I’m currently learning **Java, C#, Assembly, Ghidra, Python (ADVANCED)**
+- 📓 I’m currently learning **C++, Python, Ghidra**
 
-- 👨💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/ryuzeen)
+- 👨💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/cyruswastaken)
 
-- 💬 Ask me about **C++, Python, JavaScript, C, Ipynb**
+- 📫 How to reach me **arun3thakur11112@gmail.com**
 
-- 📫 How to reach me **vulconibraba@gmail.com**
-
-- 🗣️ Languages **PT / ES / EN / RU**
-
-- ⚡ Support me at **https://sociabuzz.com/ryuzeen_/tribe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/lumusy2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lumusy2k" height="30" width="40" /></a>
-<a href="https://discord.gg/ryuzeen._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ryuzeen._" height="30" width="40" /></a>
+<a href="https://discord.gg/cyrus._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ryuzeen._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
