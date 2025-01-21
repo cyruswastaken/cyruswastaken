@@ -10,7 +10,7 @@
 
 - 📓 I’m currently learning **C++, Python, Ghidra, Reverse engineering**
 
-- 👨💻 All of my projects are available at [Githuhb](https://github.com/cyruswastaken)
+- 👨💻 All of my projects are available at [Github](https://github.com/cyruswastaken)
 
 - 📫 How to reach me **[Mail](arun3thakur11112@gmail.com)**
 
