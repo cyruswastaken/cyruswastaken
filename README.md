@@ -11,7 +11,7 @@
 
 - 📓 I’m currently learning **C++, Python, Ghidra**
 
-- 👨💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/cyruswastaken)
+- 👨💻 All of my projects are available at [https://github.com/cyruswastaken](https://github.com/cyruswastaken)
 
 - 📫 How to reach me **arun3thakur11112@gmail.com**
 
