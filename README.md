@@ -1,4 +1,4 @@
-[![MasterHead](jujutsukaisen.png)]()
+[![MasterHead](banner.png)]()
 <h1 align="center">Hello! im CyRUS</h1>
 <h3 align="center">I am a Front / Back end developer / Reverse engineering</h3>
 
