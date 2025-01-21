@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyruswastaken&label=Profile%20views&color=0e75b6&style=flat" alt="CyRUS" /> </p>
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=cyruswastaken" alt="CyRUS" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
 
 - 👨💻 I’m currently working on my life.
 
