@@ -10,9 +10,9 @@
 
 - 📓 I’m currently learning **C++, Python, Ghidra**
 
-- 👨💻 All of my projects are available at [https://github.com/cyruswastaken](https://github.com/cyruswastaken)
+- 👨💻 All of my projects are available at [Githuhb](https://github.com/cyruswastaken)
 
-- 📫 How to reach me **arun3thakur11112@gmail.com**
+- 📫 How to reach me **[Mail](arun3thakur11112@gmail.com)**
 
 
 <h3 align="left">Connect with me:</h3>
