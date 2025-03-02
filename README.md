@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="HikiGaya.jpeg" alt="MasterHead"/>
-</p>
+
 
 <h1 align="center">Hello! I'm CyRUS</h1>
 <h3 align="center">not a developer istg</h3>
