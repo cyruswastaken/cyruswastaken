@@ -7,9 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=cyruswastaken&label=Profile%20views&color=0e75b6&style=flat" alt="CyRUS" />
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=cyruswastaken&margin-w=15" alt="CyRUS Trophies" /></a>
-</p>
+
 
 ---
 
