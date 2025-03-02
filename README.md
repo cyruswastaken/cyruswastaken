@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.jpeg" alt="MasterHead" width="650" height="320" />
+  <img src="banner1.jpeg" alt="MasterHead"/>
 </p>
 
 <h1 align="center">Hello! I'm CyRUS</h1>
