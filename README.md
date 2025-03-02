@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello! I'm CyRUS</h1>
-<h3 align="center">I am a Frontend & Backend Developer | Reverse Engineer</h3>
+<h3 align="center">not a developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyruswastaken&label=Profile%20views&color=0e75b6&style=flat" alt="CyRUS" />
