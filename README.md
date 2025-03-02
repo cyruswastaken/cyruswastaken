@@ -17,7 +17,7 @@
 
 ### 🛠️ About Me:
 - 🔧 I’m currently working on my life.
-- 📚 I’m currently learning.....learning? Whats that?
+- 📚 I’m currently learning, learning? Whats that?
 - 🚀 All of my projects are available on [GitHub](https://github.com/cyruswastaken)
 - 📫 How to reach me: **[Mail](arun3thakur11112@gmail.com)**
 
