@@ -1,13 +1,13 @@
-
-
 <h1 align="center">Hello! I'm CyRUS</h1>
 <h3 align="center">not a developer istg</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyruswastaken&label=Profile%20views&color=0e75b6&style=flat" alt="CyRUS" />
+  <img src="https://raw.githubusercontent.com/cyruswastaken/cyruswastaken/main/ChatGPT%20Image%20Apr%2025%2C%202025%2C%2008_31_03%20PM.png" alt="CyRUS Banner" height="300px" width="900px"/>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyruswastaken&label=Profile%20views&color=0e75b6&style=flat" alt="CyRUS" />
+</p>
 
 ---
 
