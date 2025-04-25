@@ -12,9 +12,9 @@
 ---
 
 ### 🛠️ About Me:
-- 🔧 I’m currently working on my life.
-- 📚 I’m currently learning, learning? What's that?
-- 🚀 All of my projects are available on [GitHub](https://github.com/cyruswastaken)
+- 🔧 nothing.
+- 📚 nothing.
+- 🚀 nothing.
 
 ---
 
