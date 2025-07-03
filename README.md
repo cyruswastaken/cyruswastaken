@@ -2,7 +2,7 @@
 <h3 align="center">not a developer istg</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyruswastaken/cyruswastaken/main/bannerr.jpg" alt="CyRUS Banner"/>
+  <img src="https://raw.githubusercontent.com/cyruswastaken/cyruswastaken/main/bannerr.jpg" alt="CyRUS Banner" height="150px"/>
 </p>
 
 <p align="center">
