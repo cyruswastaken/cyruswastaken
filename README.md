@@ -19,15 +19,6 @@
 
 ---
 
-### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://discord.gg/cyrus._" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools:
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
