@@ -12,10 +12,9 @@
 
 ---
 
-### 🛠️ About Me:
-- 🔧 nothing.
-- 📚 nothing.
-- 🚀 nothing.
+### 🛠️ Currently learning:
+- 🔧 Reverse Engineering.
+- 📚 Game Dev.
 
 ---
 
