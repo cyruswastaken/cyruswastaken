@@ -38,4 +38,7 @@
   <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/768px-Ghidra_logo.svg.png?20220727174502" alt="Unity" width="40" height="40"/>
+  </a>
 </p>
